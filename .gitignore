@@ -1,0 +1,9 @@
+.venv/
+.venv311/
+__pycache__/
+.env
+*.log
+.expo/
+node_modules/
+.env
+*.env
