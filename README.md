@@ -64,5 +64,6 @@ RakshakAI uses:
 ## 🚀 How to Run
 ### Backend
 ```bash
-pip install -r requirements.txt
+python main2_fixed.py
+npx expo start -c
 python app.py
